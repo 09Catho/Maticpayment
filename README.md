@@ -20,14 +20,14 @@ This payment gateway has not been integrated into our live website due to the la
 1. **Download and Extract**
    - Clone the repository or download the zip file and extract it:
      ```bash
-     git clone https://github.com/your-username/matic-payment-gateway.git
+     git clone https://github.com/09Catho/Maticpayment.git
      ```
      OR download the zip and extract it manually.
 
 2. **Navigate to the Project Directory**
    - Open a terminal and navigate to the extracted folder:
      ```bash
-     cd matic-payment-gateway
+     cd Maticpayment
      ```
 
 3. **Install Dependencies**
@@ -37,7 +37,7 @@ This payment gateway has not been integrated into our live website due to the la
      ```
 
 4. **Configure Your Wallet Details**
-   - Inside the project directory, open the `config.js` file and replace the placeholder values with your **Matic wallet credentials**:
+   - Inside the project directory, open the `server.js` file and replace the placeholder values with your **Matic wallet credentials**:
      ```javascript
      module.exports = {
        walletPrivateKey: "YOUR_PRIVATE_KEY",
@@ -49,7 +49,7 @@ This payment gateway has not been integrated into our live website due to the la
 5. **Start the Server**
    - Once everything is set up, you can start the server using the following command:
      ```bash
-     node index.js
+     node server.js
      ```
    - The server will begin listening for payment transactions made in Matic tokens.
 
