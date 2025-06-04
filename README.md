@@ -66,15 +66,24 @@ At the moment, the Matic payment gateway isn't live on the Byte Net platform due
 
 If you'd like to contribute to this project, feel free to submit pull requests or report any issues. We appreciate any feedback or improvements to the code.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m "Add feature"`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
+1. Fork the repository  
+2. Create your feature branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m "Add feature"`)  
+4. Push to the branch (`git push origin feature-name`)  
+5. Open a pull request  
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Creators
+
+This project was developed with love and technical enthusiasm by:
+
+### 👨‍💻 Atul  
+### 👩‍💻 Divyanshi Sharma  
+
+Together, they envisioned a seamless blockchain-based payment system to power decentralized access to digital content on Byte Net. Their contribution to open-source development aims to help others build secure Web3 solutions with ease.
 
 ---
 
